@@ -287,7 +287,7 @@
 
                     if (isset($_GET['id'])) {
 
-                      if (strlen($_FILES['img_usuario']['name'])>3) {
+                      if (strlen($_FILES['img_usuario']['name'])>2) {
                         $datos=[
                           "id"=>$_GET['id'],
                           "nombre"=>openssl_encrypt($_POST['nombre'],$metodo,$pass),
