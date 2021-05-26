@@ -1,0 +1,59 @@
+{
+  "name": "ARC Soluciones",
+  "short_name": "ARC Soluciones",
+  "description": "Te brindamos abanico de opciones que aseguran tu negocio ante diferentes riesgos, procurando las mejores ofertas comerciales que se adecuen a tus necesidades e intereses. Un seguro hecho a tu medida  ",
+  "background_color": "#ffffff",
+  "theme_color": "#000",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "./assets/media/empresa/logo/icon_1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/icon_512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/icon_384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/icon_192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/icon_128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/icon_96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/icon_64.png",
+      "sizes": "64x64",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/icon_32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/media/empresa/logo/favicon.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    }
+  ]
+}
